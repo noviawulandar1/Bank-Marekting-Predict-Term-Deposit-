@@ -1,5 +1,8 @@
 # Bank-Marekting-Predict-Term-Deposit-
-Hi, this is my final Project in dibimbing.id. My name is Novia Wulandari a data enthusiast who has just started my data learning journey by joining the bootcamp data science batch 17. This project is about making various kinds of machine learning that is suitable for use by dataset that can predict a customer will take a deposit or not. I got this Dataset Bank Marketing Analysis from Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
+Hi, this is my first portfolio data science. My name is Novia Wulandari a data enthusiast who has just started my data learning journey by joining the bootcamp data science batch 17. This project is about making various kinds of machine learning that is suitable for use by dataset that can predict a customer will take a deposit or not. I got this Dataset Bank Marketing Analysis from Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
+
+I did an update by calculating (Cumulative Gains Curve) the business case with the prevailing interest rate in one of the conventional banks in Indonesia, namely calculating the benefits you get if you use a machine learning model and if you don't use a machine learning model.
+
 Overall Steps:
 
 * Import all Libraries & Load the Dataset
@@ -44,5 +47,6 @@ Overall Steps:
   * Tuning Model SVM Model with GridSearch and RandomSearch
   * Tuning Model Naive Bayes Model with GridSearch and RandomSearch
 * Feature Importance with Dalex
+* Business Case (Cumulative Gains Curve)
 
 Thank You in Advance!
